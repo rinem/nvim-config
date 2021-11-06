@@ -33,6 +33,8 @@ call plug#begin('~/.config/nvim/autoload/plugged')
     Plug 'junegunn/gv.vim'    
     " Quick Scope
     Plug 'unblevable/quick-scope'
+    " LSPConfig
+    Plug 'neovim/nvim-lspconfig'
     " Which Key
     Plug 'liuchengxu/vim-which-key'
     " FZF
