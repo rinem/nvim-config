@@ -35,6 +35,7 @@ call plug#begin('~/.config/nvim/autoload/plugged')
     Plug 'unblevable/quick-scope'
     " LSPConfig
     Plug 'neovim/nvim-lspconfig'
+    Plug 'hrsh7th/nvim-compe'
     " Which Key
     Plug 'liuchengxu/vim-which-key'
     " FZF
