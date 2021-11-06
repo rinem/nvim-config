@@ -16,8 +16,6 @@ call plug#begin('~/.config/nvim/autoload/plugged')
     Plug 'jiangmiao/auto-pairs'
     " Theme
     Plug 'joshdick/onedark.vim'    
-    " Coc 
-    Plug 'neoclide/coc.nvim', {'branch': 'release'}
     " Airline
     Plug 'vim-airline/vim-airline'
     Plug 'vim-airline/vim-airline-themes'
